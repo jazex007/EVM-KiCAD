@@ -1,1 +1,1 @@
-ÚVODNÁ OBRAZOVKA
+KiCad 10.0
