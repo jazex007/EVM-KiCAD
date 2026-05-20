@@ -1,0 +1,1 @@
+TEST - Úvodná obrazovka nám ponúka na výber z viacerých nástrojov programu KiCad.
