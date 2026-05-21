@@ -1,0 +1,2 @@
+Pre otvorenie editora schém je nutné otvoriť alebo vytvoriť projekt.
+Tlačidlo otvorenia projektu
