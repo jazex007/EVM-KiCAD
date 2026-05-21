@@ -1,7 +1,7 @@
 {
-  "image": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/snímky/A.bmp",
-  "h1": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/H/A.txt?utm_source=chatgpt.com",
-  "p": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/P/A.txt?utm_source=chatgpt.com",
+  "image": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/A.bmp",
+  "h1": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/H/A.txt",
+  "p": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/P/A.txt",
 
   "imageWidth": 1920,
   "imageHeight": 1080,
