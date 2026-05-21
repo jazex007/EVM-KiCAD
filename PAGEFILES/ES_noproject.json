@@ -8,8 +8,8 @@
 
   "buttons": [
     {
-      "x": 1070,
-      "y": 560,
+      "x": 1065,
+      "y": 580,
       "w": 72,
       "h": 20,
       "target": "https://example.com/page-b.json"
