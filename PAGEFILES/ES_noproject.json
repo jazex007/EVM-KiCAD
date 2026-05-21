@@ -13,20 +13,6 @@
       "w": 72,
       "h": 20,
       "target": "https://example.com/page-b.json"
-    },
-    {
-      "x": 304,
-      "y": 125,
-      "w": 48,
-      "h": 50,
-      "target": "https://example.com/page-c.json"
-    },
-    {
-      "x": 304,
-      "y": 182,
-      "w": 48,
-      "h": 50,
-      "target": "https://example.com/page-c.json"
     }
   ]
 }
