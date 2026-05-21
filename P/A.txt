@@ -20,4 +20,5 @@ Vlastné pravidlá DRC je teraz možné upravovať v grafickom editore pravidiel
 Editory plošných spojov a pôdorysov teraz dokážu generovať a upravovať objekty čiarových kódov s podporou niekoľkých typov čiarových kódov.
 3
 Do editorov plošných spojov a pôdorysov bol pridaný koncept „bodového“ objektu. Body sú užitočné na prichytávanie a lokalizáciu objektov, ale neovplyvňujú výrobné výstupy.
-Významné vylepšenia boli vykonané v knižniciach symbolov, pôdorysov a 3D modelov. ZDROJ: https://docs.kicad.org/10.0/en/introduction/introduction.pdf
+Významné vylepšenia boli vykonané v knižniciach symbolov, pôdorysov a 3D modelov. 
+ZDROJ: https://docs.kicad.org/10.0/en/introduction/introduction.pdf
