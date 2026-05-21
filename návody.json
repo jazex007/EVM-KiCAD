@@ -1,15 +1,19 @@
 {
   "pages": [
     {
-      "name": "Úvod",
+      "name": "TESTER ANTISTATICKÝCH NÁRAMKOV",
       "url": "/static/PAGEFILES/page1.json"
     },
     {
-      "name": "KiCad 10.0",
+      "name": "Elektronická poistka do domáceho laboratória (3.3 - 30 V, 1.1 A)",
       "url": "/static/PAGEFILES/kicad10.json"
     },
     {
-      "name": "Bez projektu",
+      "name": "Tester kontinuity",
+      "url": "/static/PAGEFILES/ES_noproject.json"
+    }
+       {
+      "name": "DOMÁCA POWERBANKA",
       "url": "/static/PAGEFILES/ES_noproject.json"
     }
   ]
