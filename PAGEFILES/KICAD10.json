@@ -12,7 +12,7 @@
       "y": 64,
       "w": 48,
       "h": 48,
-      "target": "https://example.com/page-b.json"
+      "target": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/PAGEFILES/ES_noproject.json"
     },
     {
       "x": 304,
