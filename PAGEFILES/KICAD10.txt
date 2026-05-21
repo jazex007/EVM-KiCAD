@@ -1,1 +1,33 @@
 
+{
+  "image": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/sn%C3%ADmky/A.bmp?utm_source=chatgpt.com",
+  "h1": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/nadpisy/A.txt?utm_source=chatgpt.com",
+  "p": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/text/A.txt?utm_source=chatgpt.com",
+
+  "imageWidth": 1920,
+  "imageHeight": 1080,
+
+  "buttons": [
+    {
+      x: 304,
+      y: 64,
+      w: 48,
+      h: 48,
+      "target": "https://example.com/page-b.json"
+    },
+    {
+      x: 304,
+      y: 125,
+      w: 48,
+      h: 50,
+      "target": "https://example.com/page-c.json"
+    }
+    {
+      x: 304,
+      y: 182,
+      w: 48,
+      h: 50,
+      "target": "https://example.com/page-c.json"
+    }
+  ]
+}
