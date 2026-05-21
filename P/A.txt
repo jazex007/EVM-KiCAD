@@ -1,2 +1,23 @@
 
-test
+KiCad je bezplatný a open-source balík pre automatizáciu návrhu elektroniky (EDA). Ponúka zachytávanie schém, simuláciu integrovaných obvodov, rozloženie dosiek plošných spojov (PCB), 3D vykresľovanie a vykresľovanie/export dát do mnohých formátov. KiCad tiež obsahuje vysokokvalitnú knižnicu komponentov s tisíckami symbolov, pôdorysov a 3D modelov. KiCad má minimálne systémové požiadavky a beží na Linuxe, Windowse a macOS.
+KiCad 10.0 je najnovšia hlavná verzia. Obsahuje stovky nových funkcií a opráv chýb. Medzi najvýznamnejšie nové funkcie patria:
+Panely nástrojov je možné prispôsobiť vo všetkých editoroch.
+Do editorov schém a dosiek plošných spojov bol pridaný režim výberu lasom.
+Teraz môžete importovať návrhy z Allegro, PADS a gEDA/Lepton EDA.
+Boli pridané varianty návrhu, ktoré vám umožňujú definovať viacero verzií jedného projektu, ktoré zdieľajú schému a rozloženie, ale majú rôzne vlastnosti (napríklad rôzne čísla dielov alebo určité diely, ktoré nie sú umiestnené).
+Symboly a obrysy môžu mať teraz prepojené piny. Prepojené piny sa považujú za interne prepojené vo vnútri namontovaného komponentu.
+
+Do editora schém bola pridaná podpora pre skupiny, ktorá zodpovedá funkciám zoskupovania v editore dosiek plošných spojov.
+
+V tabuľke pinov symbolov editora symbolov teraz môžete importovať a exportovať definície pinov pomocou súborov CSV.
+Výkonové symboly (VCC, GND atď.) je teraz možné voliteľne označiť ako lokálne výkonové symboly, ktoré nevytvárajú prepojenia medzi listami schém.
+Symboly môžu mať teraz viacero alternatívnych štýlov tela. V predchádzajúcich verziách KiCadu boli symboly obmedzené na jeden alternatívny štýl tela „ekvivalent De Morgana“.
+Systém ladenia dĺžky trate bol prepracovaný. Zahŕňa to vylepšenia výpočtov dĺžky, aby bol router konzistentnejší s DRC, podporu obmedzení ladenia v časovej doméne namiesto jednoduchých obmedzení dĺžky a pridanie profilov ladenia, ktoré umožňujú definovať parametre ladenia dĺžky pre jednotlivé vrstvy.
+
+Funkcia Návrhový blok bola rozšírená do editora dosiek plošných spojov, čo vám umožňuje spravovať knižnicu fragmentov schém a rozloženia. Pôdorysy teraz môžu obsahovať grafiku, blokovacie zóny a ďalšie objekty na vnútorných vrstvách, namiesto iba na vonkajších vrstvách ako v predchádzajúcich verziách.
+Bola pridaná funkcia neobmedzenej výmeny pinov/hradidiel, ktorá umožňuje anotovať zmeny pinov a hradiel (jednotiek) medzi editorom plošných spojov a editorom schém.
+Vlastné pravidlá DRC je teraz možné upravovať v grafickom editore pravidiel DRC. Grafický editor je plne kompatibilný s existujúcim textovým systémom vlastných pravidiel.
+Editory plošných spojov a pôdorysov teraz dokážu generovať a upravovať objekty čiarových kódov s podporou niekoľkých typov čiarových kódov.
+3
+Do editorov plošných spojov a pôdorysov bol pridaný koncept „bodového“ objektu. Body sú užitočné na prichytávanie a lokalizáciu objektov, ale neovplyvňujú výrobné výstupy.
+Významné vylepšenia boli vykonané v knižniciach symbolov, pôdorysov a 3D modelov. ZDROJ: https://docs.kicad.org/10.0/en/introduction/introduction.pdf
