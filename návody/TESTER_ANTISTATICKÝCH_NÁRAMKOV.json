@@ -14,6 +14,16 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/TESTERANTISTATICK%C3%9DCHN%C3%81RAMKOV.png"
+    },
+
+    {
+      "type": "p",
+      "text": "Zoznam súčiastok : "
+    },
+
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/TESTERANTISTATICK%C3%9DCHN%C3%81RAMKOV_zoznam_s%C3%BA%C4%8Diastok.png"
     }
   ]
 }
