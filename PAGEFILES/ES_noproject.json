@@ -26,7 +26,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/createproject.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/new_project.svg"
     },
     {
       "type": "p",
@@ -34,7 +34,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/openproject.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/IMG/open_project.svg"
     }
   ]
 }
