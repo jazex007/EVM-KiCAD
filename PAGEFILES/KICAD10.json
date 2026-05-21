@@ -28,5 +28,16 @@
       "h": 50,
       "target": "https://example.com/page-c.json"
     }
+  ],
+   "content": [
+    {
+      "type": "h1",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/H/A.txt"
+    },
+    {
+      "type": "p",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/P/A.txt"
+    },
+
   ]
 }
