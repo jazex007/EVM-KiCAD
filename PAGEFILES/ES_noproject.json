@@ -9,7 +9,7 @@
   "buttons": [
     {
       "x": 1068,
-      "y": 580,
+      "y": 575,
       "w": 72,
       "h": 20,
       "target": "https://example.com/page-b.json"
