@@ -102,6 +102,32 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN8.bmp"
+    },
+
+    {
+      "type": "p",
+      "text": "Otvoríme editor DPS kliknutím na symbol *Prepnúť na editor DPS."
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_pcbnew_24.svg"
+    },
+
+    {
+      "type": "p",
+      "text": "Klikneme na symbol *Aktualizovať DPS zo schémy* a vytvoríme fyzický tvar vodivých spojov pomocou nástroja *Routovať spoje* ."
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/update_pcb_from_sch.svg"
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_tracks.svg"
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN9.bmp"
     }
   ]
 }
