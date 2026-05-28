@@ -80,6 +80,28 @@
     {
       "type": "p",
       "text": "Pole za dvojbodkou je prázdne pre chýbajúce púzdro. Púzdro priradíme výberom z pravej strany okna."
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN6.bmp"
+    },
+
+    {
+      "type": "p",
+      "text": "OK."
+    },
+
+    {
+      "type": "p",
+      "text": "Otvoríme editor DPS kliknutím na symbol *Prepnúť na editor DPS."
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_cvpcb_24.svg"
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN8.bmp"
     }
   ]
 }
