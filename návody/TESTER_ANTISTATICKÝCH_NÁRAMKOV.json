@@ -65,6 +65,21 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN4.bmp"
+    },
+
+    {
+      "type": "p",
+      "text": "K symbolom priradíme púzdra. Pre otvorenie okna priraďovania púzdier klikneme na symbol *Priradiť púzdra*."
+    },
+
+    {
+      "type": "p",
+      "text": "Na ľavej strane okna sa nachádza výpis dostupných knižníc púzdier. V strede okna sa nachádza výpis súčiastok tvorený zľava číslom súčiastky, označením súčiastky a názvom súčiastky."
+    },
+
+    {
+      "type": "p",
+      "text": "Pole za dvojbodkou je prázdne pre chýbajúce púzdro. Púzdro priradíme výberom z pravej strany okna."
     }
   ]
 }
