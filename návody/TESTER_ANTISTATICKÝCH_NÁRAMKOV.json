@@ -43,11 +43,15 @@
 
     {
       "type": "p",
-      "text": "Klikneme na tlačidlo *Place symbol*."
+      "text": " Vložíme všetky súčiastky podľa zadania. Pre vloženie súšiastky klikneme na tlačidlo *Umiestniť symbol* pre možnosť výberu požadovanej súčiastky."
     },   
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_component.svg"
+    },   
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN2.bmp"
     }
   ]
 }
