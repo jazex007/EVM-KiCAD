@@ -128,6 +128,11 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN9.bmp"
+    },
+
+    {
+      "type": "p",
+      "text": "Hotovo."
     }
   ]
 }
