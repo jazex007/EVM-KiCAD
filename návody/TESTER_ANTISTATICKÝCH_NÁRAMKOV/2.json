@@ -24,7 +24,7 @@
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_component.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_component.svg",
        "size": 10
     },   
     {
@@ -38,7 +38,7 @@
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_bus.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_bus.svg",
       "size": 10
 
     },   
@@ -77,7 +77,7 @@
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_cvpcb_24.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_cvpcb_24.svg",
       "size": 10
 
     },   
@@ -92,7 +92,7 @@
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_pcbnew_24.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_pcbnew_24.svg",
       "size": 10
     },
 
@@ -102,12 +102,12 @@
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/update_pcb_from_sch.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/update_pcb_from_sch.svg",
       "size": 10
     },   
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_tracks.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_tracks.svg",
       "size": 10
     },   
     {
