@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Pre priraďovanie puzdier klikneme na symbol Priradiť puzdrá."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image13.png"
+    },
+    {
+      "type": "p",
+      "text": "Puzdrá priraďte nasledovne podľa tohto návodu."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image14.png"
+    }
+  ]
+}
