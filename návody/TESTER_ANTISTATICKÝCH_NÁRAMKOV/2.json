@@ -1,15 +1,12 @@
 {
-  "content": [{
-      "type": "p",
-      "text": ""
-    },
+  "content": [
     {
       "type": "p",
-      "text": "Toto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10.0."
+      "text": "Toto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10 bodka 0."
     },
     {
       "type": "image",
-      "url": "PATH/TO/image1.png"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/1TAN.bmp"
     },
     {
       "type": "p",
@@ -17,7 +14,63 @@
     },
     {
       "type": "image",
-      "url": "PATH/TO/image2.png"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/2TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Po kliknutí sa zobrazí okno výberu šablóny projektu. Pre tento projekt vyberieme šablónu Default a klikneme na tlačidlo OK."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/3TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Následne je potrebné nový projekt pomenovať a uložiť. Po uložení bude projekt viditeľný na úvodnej stránke."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/4TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Po vytvorení projektu je možné pokračovať návrhom schémy. Schematický editor otvoríme kliknutím na symbol schematického editora."
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/6TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/7TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Pre umiestnenie symbolu je potrebné kliknúť na symbol umiestnenia symbolov. Následne je potrebné vyhľadať požadovaný symbol. Symbol vyhľadáme, vyberieme, stlačíme OK a umiestnime ho na plochu kliknutím. Takto na plochu umiestnime všetky symboly podľa zadania."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/8TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/9TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/10TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Teraz je potrebné symboly rozmiestniť podľa schémy."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/11TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "Keď sú symboly správne rozmiestnené, je potrebné prepojiť ich vodivými spojmi. Pre prepojenie symbolov vodivými spojmi klikneme na symbol Kresliť spoje, následne klikneme na začiatočný bod spoja, nakreslíme spoj a ukončíme ho ďalším kliknutím."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/12TAN.bmp"
     }
   ]
 }
