@@ -1,0 +1,24 @@
+
+{
+
+  "content": [
+    {
+      "type": "p",
+      "text": "Po kliknutí naň vyskočí okno výberu šablóny projektu. Pre tento projekt vyberieme šablónu Default a klikneme na symbol OK."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image3.png"
+    },
+    {
+      "type": "p",
+      "text": "Následne je nutné nový projekt pomenovať a uložiť. Po uložení nového projektu bude projekt viditeľný na úvodnej stránke."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image4.png"
+    }
+  ]
+}
+
+
