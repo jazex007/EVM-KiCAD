@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Ako môžete vidieť, v schéme sa nachádzajú viaceré symboly pre jednu súčiastku. V tejto schéme sa jedná o súčiastky IC1 a IC2. KiCad umožňuje vytvárať pre jeden symbol rôzne jednotky, z ktorých každá disponuje inými pinmi. Toto riešenie zlepšuje prehľadnosť schémy. Hoci má jedna súčiastka viacero jednotiek, pri prevode na DPS bude mnohým jednotkám priradené jedno puzdro."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image9.png"
+    },
+    {
+      "type": "p",
+      "text": "Po pravej strane schémy je vidieť, že napájanie IC1 a IC2 bolo riešené samostatnými jednotkami."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image10.png"
+    }
+  ]
+}
