@@ -1,0 +1,21 @@
+
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Po vytvorení projektu je možné pokračovať návrhom schémy. Schematický editor otvoríme kliknutím na symbol schematického editora."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image5.png"
+    },
+    {
+      "type": "p",
+      "text": "Pre umiestnenie symbolu je potrebné kliknúť na symbol umiestnenia symbolov. Následne je nutné vyhľadať požadovaný symbol. Najlepšie je začínať vždy najpočetnejšími symbolmi. Symbol vyhľadáme, vyberieme, stlačíme OK a umiestnime na plochu kliknutím. Takto na plochu umiestnime všetky symboly podľa zadania."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image6.png"
+    }
+  ]
+}
