@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Puzdro vždy priradíme dvojklikom."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image15.png"
+    },
+    {
+      "type": "p",
+      "text": "Keď sú puzdrá priradené, je možné prepnúť do editora DPS. Do editora DPS prepneme kliknutím na symbol Prepnúť na editor DPS. V editore DPS klikneme na symbol Aktualizácia DPS zo schémy a následne v okne klikneme na OK."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image16.png"
+    }
+  ]
+}
