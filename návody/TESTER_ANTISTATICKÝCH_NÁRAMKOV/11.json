@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "V editore DPS máme teraz vložené vyobrazenia fyzickej podoby puzdier súčiastok. Puzdrá je teraz nutné prepojiť vodivým spojom. Napravo sa nachádza panel pre výber materiálu, po jeho ľavej strane sa nachádza panel nástrojov. Pre kreslenie vodivých spojov vyberieme ako materiál meď. Vyberáme prvú verziu F, čo je skratkou pre slovo Front, z čoho vyplýva, že tento spoj vedie po hornej strane DPS. Druhá možnosť s písmenom B, ktoré je skratkou pre Back, vedie vodivý spoj po dolnej strane DPS."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image17.png"
+    },
+    {
+      "type": "p",
+      "text": "Pred spojením je nutné súčiastky umiestniť tak, aby sa medzi nimi nachádzal priestor pre fyzický, rozmerný spoj. Následne súčiastky prepojíme."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image18.png"
+    },
+    {
+      "type": "p",
+      "text": "Puzdrá môžete prepojiť rovnako, ako sú prepojené tu."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image19.png"
+    }
+  ]
+}
