@@ -1,123 +1,32 @@
 {
   "content": [
+     {
+      "type": "p",
+      "text": "AKO PRVÉ JE POTREBNÉ VYTVORIŤ NOVÝ PROJEKT V KTOROM BUDE ULOŽENÝ SÚBOR SCHÉMY A SÚBOR DPS. NOVÝ PROJEKT VYTVORÍME KLIKNUTÍM NA SYMBOL VYTVORENIA NOVÉHO PROJEKTU - CREATE NEW PROJECT. "
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/new_project.svg"
+    },
+
+
+    
+     {
+      "type": "p",
+      "text": "PO KLIKNUTÍ NA NÁS VYSKOČÍ OKNO VÝBERU ŠABLÓNY PROJEKTU. PRE TENTO PROJEKT VYBERIEME ŠABLÓNU DEFAULT A KLIKNEME NA SYMBOL OK. "
+    },
     
     
-
     {
       "type": "p",
-      "text": "Všetky súčiastky sa nachádzajú v knižnici."
+      "text": "NÁSLEDNE JE NUTNÉ NOVÝ PROJEKT POMENOVAŤ A ULOŽIŤ. PO ULOŽENÍ NOVÉHO PROJEKTU BUDE PROJEKT VIDITEĽNÝ NA ÚVODNEJ STRÁNKE. "
     },
 
+    
     {
       "type": "p",
-      "text": "Otvoríme schematický editor projektu."
+      "text": "PO VYTVORENÍ PROJEKTU JE MOŽNÉ POKRAČOVAŤ NÁVRHOM SCHÉMY. SCHEMATICKÝ EDITOR OTVORÍME KLIKNUTÍM NA SYMBOL SCHEMATICKÉHO EDITORA."
     },
-
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN1.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": " Vložíme všetky súčiastky podľa zadania. Pre vloženie súšiastky klikneme na tlačidlo *Umiestniť symbol* pre možnosť výberu požadovanej súčiastky."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_component.svg",
-       "size": 10
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN2.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": " Súčiastky prepojíme vodivými spojmi podľa schémy. Nástroj kreslenia spojov kliknutím na znak *Kresliť spoje*."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_bus.svg",
-      "size": 10
-
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN4.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": "K symbolom priradíme púzdra. Pre otvorenie okna priraďovania púzdier klikneme na symbol *Priradiť púzdra*."
-    },
-
-    {
-      "type": "p",
-      "text": "Na ľavej strane okna sa nachádza výpis dostupných knižníc púzdier. V strede okna sa nachádza výpis súčiastok tvorený zľava číslom súčiastky, označením súčiastky a názvom súčiastky."
-    },
-
-    {
-      "type": "p",
-      "text": "Pole za dvojbodkou je prázdne pre chýbajúce púzdro. Púzdro priradíme výberom z pravej strany okna."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN6.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": "OK."
-    },
-
-    {
-      "type": "p",
-      "text": "Otvoríme editor DPS kliknutím na symbol *Prepnúť na editor DPS."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_cvpcb_24.svg",
-      "size": 10
-
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN8.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": "Otvoríme editor DPS kliknutím na symbol *Prepnúť na editor DPS."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/icon_pcbnew_24.svg",
-      "size": 10
-    },
-
-    {
-      "type": "p",
-      "text": "Klikneme na symbol *Aktualizovať DPS zo schémy* a vytvoríme fyzický tvar vodivých spojov pomocou nástroja *Routovať spoje* ."
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/update_pcb_from_sch.svg",
-      "size": 10
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/add_tracks.svg",
-      "size": 10
-    },   
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN9.bmp"
-    },
-
-    {
-      "type": "p",
-      "text": "Hotovo."
-    }
+   
   ]
 }
