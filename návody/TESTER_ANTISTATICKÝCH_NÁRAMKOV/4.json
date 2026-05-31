@@ -2,19 +2,58 @@
   "content": [
     {
       "type": "p",
-      "text": "Po vytvorení projektu je možné pokračovať návrhom schémy. Schematický editor otvoríme kliknutím na symbol schematického editora."
+      "text": "V editore DPS máme teraz vložené vyobrazenia fyzickej podoby puzdier súčiastok. Puzdrá je teraz potrebné prepojiť vodivými spojmi. Napravo sa nachádza panel pre výber materiálu, po jeho ľavej strane sa nachádza panel nástrojov. Pre kreslenie vodivých spojov vyberieme ako materiál meď. Vyberáme prvú vrstvu F, čo je skratka slova Front, z čoho vyplýva, že spoj vedie po prednej strane DPS. Druhá možnosť s písmenom B, ktoré je skratkou slova Back, vedie vodivý spoj po zadnej strane DPS."
     },
     {
       "type": "image",
-      "url": "PATH/TO/image5.png"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/18TAN.bmp"
     },
     {
       "type": "p",
-      "text": "Pre umiestnenie symbolu je potrebné kliknúť na symbol umiestnenia symbolov. Následne je nutné vyhľadať požadovaný symbol. Najlepšie je začínať vždy najpočetnejšími symbolmi. Symbol vyhľadáme, vyberieme, stlačíme OK a umiestnime na plochu kliknutím. Takto na plochu umiestnime všetky symboly podľa zadania."
+      "text": "Pred spojením je potrebné súčiastky umiestniť tak, aby sa medzi nimi nachádzal priestor pre fyzický spoj. Následne súčiastky prepojíme."
+    },{
+      "type": "p",
+      "text": "Puzdrá môžete prepojiť rovnako, ako sú prepojené tu."
     },
     {
       "type": "image",
-      "url": "PATH/TO/image6.png"
-    }
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/19TAN.bmp"
+    },
+    
+  
+    {
+      "type": "p",
+      "text": "Ako môžete vidieť, v DPS chýbajú puzdrá pre zdroj. Je to preto, lebo symboly, ktoré sme zatiaľ použili v schéme, slúžia iba ako referencia. Netreba sa však stresovať. Aj po prevedení schémy do editora DPS je stále možné otvoriť schematický editor a pridať do schémy symbol batérie. Následne je potrebné priradiť batérii puzdro. Puzdro priraďte podľa návodu. Po priradení puzdra zdroju sa už len stačí vrátiť do editora DPS a aktualizovať DPS zo schémy rovnakým spôsobom ako naposledy."
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/20TAN.bmp"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/21TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/22TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/23TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/24TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/25TAN.bmp"
+    },
+    {
+      "type": "p",
+      "text": "DPS je hotové."
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/26TAN.bmp"
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/27TAN.bmp"
+    },
   ]
 }
