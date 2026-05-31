@@ -4,34 +4,23 @@
       "type": "p",
       "text": "Ako môžete vidieť, v schéme sa nachádza viacero symbolov pre jednu súčiastku. V tejto schéme ide o súčiastky IC1 a IC2. KiCad umožňuje vytvárať pre jeden symbol rôzne jednotky, z ktorých každá môže disponovať inými pinmi pôvodnej súčiastky. Toto riešenie zlepšuje prehľadnosť schémy. Hoci má jedna súčiastka viacero jednotiek, pri prevode na DPS bude viacerým jednotkám priradené jedno puzdro."
     },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/9TAN.bmp"
-    },
+    
     {
       "type": "p",
       "text": "Po pravej strane schémy je možné vidieť, že napájanie IC1 a IC2 bolo riešené samostatnými jednotkami."
     },
     {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/10TAN.bmp"
-    },
-    {
       "type": "p",
       "text": "Zapojenie schémy je hotové. Zostáva už len priradenie hodnôt súčiastkam."
-    },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/11TAN.bmp"
+    },   {
+      "type": "p",
+      "text": ""
     },
     {
       "type": "p",
       "text": "Schéma je hotová. Teraz je možné k súčiastkam priradiť vhodné puzdrá."
     },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/12TAN.bmp"
-    },
+ 
     {
       "type": "p",
       "text": "Pre priraďovanie puzdier klikneme na symbol Priradiť puzdrá."
@@ -52,17 +41,18 @@
       "type": "p",
       "text": "Puzdro vždy priradíme dvojklikom."
     },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/15TAN.bmp"
-    },
+
     {
       "type": "p",
-      "text": "Keď sú puzdrá priradené, je možné prepnúť do editora DPS. Do editora DPS prepneme kliknutím na symbol Prepnúť na editor DPS. V editore DPS klikneme na symbol Aktualizácia DPS zo schémy a následne v okne klikneme na OK."
+      "text": "Keď sú puzdrá priradené, je možné prepnúť do editora DPS. Do editora DPS prepneme kliknutím na symbol Prepnúť na editor DPS. V editore DPS klikneme na symbol Aktualizácia DPS zo schémy a následne v okne klikneme na zatvoriť."
     },
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/16TAN.bmp"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/17TAN.bmp"
     }
   ]
 }
