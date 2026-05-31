@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Zapojenie schémy je hotové. Zostáva už len priradenie hodnôt súčiastok a úprava pre lepšiu prehľadnosť."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image11.png"
+    },
+    {
+      "type": "p",
+      "text": "Schéma je hotová. Teraz je možné k súčiastkam priradiť vhodné puzdrá."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image12.png"
+    }
+  ]
+}
