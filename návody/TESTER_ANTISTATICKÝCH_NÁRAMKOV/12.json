@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "p",
+      "text": "Ostáva už len pridať puzdrá pre zdroj."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image20.png"
+    },
+    {
+      "type": "p",
+      "text": "DPS je hotové."
+    },
+    {
+      "type": "image",
+      "url": "PATH/TO/image21.png"
+    }
+  ]
+}
