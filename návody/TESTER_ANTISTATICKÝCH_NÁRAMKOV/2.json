@@ -6,7 +6,8 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/new_project.svg"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/new_project.svg",
+      "size:10"
     },
 
 
@@ -26,7 +27,7 @@
     {
       "type": "p",
       "text": "PO VYTVORENÍ PROJEKTU JE MOŽNÉ POKRAČOVAŤ NÁVRHOM SCHÉMY. SCHEMATICKÝ EDITOR OTVORÍME KLIKNUTÍM NA SYMBOL SCHEMATICKÉHO EDITORA."
-    },
+    }
    
   ]
 }
