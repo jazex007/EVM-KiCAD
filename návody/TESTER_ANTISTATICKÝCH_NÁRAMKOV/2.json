@@ -1,5 +1,14 @@
 {
-  "content": [
+  "content": [{
+      "type": "p",
+      "text": ""
+    },
+    
+    
+    {
+      "type": "p",
+      "text": ""
+    },
     {
       "type": "p",
       "text": "Toto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10 bodka 0."
