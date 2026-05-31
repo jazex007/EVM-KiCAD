@@ -1,33 +1,22 @@
+
 {
   "content": [
-     {
+    {
       "type": "p",
-      "text": "AKO PRVÉ JE POTREBNÉ VYTVORIŤ NOVÝ PROJEKT V KTOROM BUDE ULOŽENÝ SÚBOR SCHÉMY A SÚBOR DPS. NOVÝ PROJEKT VYTVORÍME KLIKNUTÍM NA SYMBOL VYTVORENIA NOVÉHO PROJEKTU - CREATE NEW PROJECT. "
+      "text": "Toto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10.0."
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/new_project.svg",
-      "size:10"
+      "url": "PATH/TO/image1.png"
     },
-
-
-    
-     {
-      "type": "p",
-      "text": "PO KLIKNUTÍ NA NÁS VYSKOČÍ OKNO VÝBERU ŠABLÓNY PROJEKTU. PRE TENTO PROJEKT VYBERIEME ŠABLÓNU DEFAULT A KLIKNEME NA SYMBOL OK. "
-    },
-    
-    
     {
       "type": "p",
-      "text": "NÁSLEDNE JE NUTNÉ NOVÝ PROJEKT POMENOVAŤ A ULOŽIŤ. PO ULOŽENÍ NOVÉHO PROJEKTU BUDE PROJEKT VIDITEĽNÝ NA ÚVODNEJ STRÁNKE. "
+      "text": "Ako prvé je potrebné vytvoriť nový projekt, v ktorom bude uložený súbor schémy a súbor DPS. Nový projekt vytvoríme kliknutím na symbol vytvorenia nového projektu – Create New Project."
     },
-
-    
     {
-      "type": "p",
-      "text": "PO VYTVORENÍ PROJEKTU JE MOŽNÉ POKRAČOVAŤ NÁVRHOM SCHÉMY. SCHEMATICKÝ EDITOR OTVORÍME KLIKNUTÍM NA SYMBOL SCHEMATICKÉHO EDITORA."
+      "type": "image",
+      "url": "PATH/TO/image2.png"
     }
-   
   ]
 }
+
