@@ -6,7 +6,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/1TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/1TAN.bmp"
     },
     {
       "type": "p",
@@ -14,7 +14,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/2TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/2TAN.bmp"
     },
     {
       "type": "p",
@@ -22,7 +22,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/3TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/3TAN.bmp"
     },
     {
       "type": "p",
@@ -30,17 +30,17 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/4TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/4TAN.bmp"
     },
     {
       "type": "p",
       "text": "Po vytvorení projektu je možné pokračovať návrhom schémy. Schematický editor otvoríme kliknutím na symbol schematického editora."
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/6TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/6TAN.bmp"
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/7TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/7TAN.bmp"
     },
     {
       "type": "p",
@@ -48,13 +48,13 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/8TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/8TAN.bmp"
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/9TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/9TAN.bmp"
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/10TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/10TAN.bmp"
     },
     {
       "type": "p",
@@ -62,7 +62,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/11TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/11TAN.bmp"
     },
     {
       "type": "p",
@@ -70,7 +70,7 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/12TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/12TAN.bmp"
     }
   ]
 }
