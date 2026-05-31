@@ -3,18 +3,6 @@
     {
       "name": "TESTER ANTISTATICKÝCH NÁRAMKOV",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/main/n%C3%A1vody/TESTER_ANTISTATICK%C3%9DCH_N%C3%81RAMKOV"
-    },
-    {
-      "name": "Elektronická poistka do domáceho laboratória (3.3 - 30 V, 1.1 A)",
-      "url": "/static/PAGEFILES/kicad10"
-    },
-    {
-      "name": "Tester kontinuity",
-      "url": "/static/PAGEFILES/ES_noproject"
-    },
-       {
-      "name": "DOMÁCA POWERBANKA",
-      "url": "/static/PAGEFILES/ES_noproject"
     }
   ]
 }
