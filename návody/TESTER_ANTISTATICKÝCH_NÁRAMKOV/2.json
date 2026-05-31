@@ -4,7 +4,7 @@
       "text": ""
     },   {
   "type": "video",
-  "url": "https://www.youtube.com/watch?v=yUZifB7ZUGQ"
+  "url": "https://www.youtube.com/embed/yUZifB7ZUGQ"
 },
 
     
@@ -15,7 +15,7 @@
     },
     {
       "type": "p",
-      "text": "Toto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10 bodka 0."
+      "text": "tToto je návod elektronického vyučovacieho materiálu KiCad pre vytvorenie schémy a dosky plošných spojov podľa zadania: Tester antistatických náramkov. Návod bol vytvorený pre verziu 10 bodka 0."
     },
     {
       "type": "image",
