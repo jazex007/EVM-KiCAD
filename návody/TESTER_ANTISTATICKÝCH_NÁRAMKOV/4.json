@@ -15,10 +15,13 @@
     {
       "type": "p",
       "text": "Spoje ktoré nejde prepojiť skrz dps je nutné prepojiť prekovmi. nástroj prekovu použijeme kliknutím na šiesty symbol od hora na ľavej lište panela na pravej strane obrazovky."
-    },,
+    },
     {
       "type": "p",
       "text": "Aj prekovy je potrebné prepojiť spojom vrstvy B.Cu ktorá vedie na zadnej strane hoci zadanie udáva len jednostrannú dps, tento krok je nutný."
+    },{
+      "type": "p",
+      "text": "Spoje pre VCC majú hrúbku 1,5mm a spoje ktoré prechádzajú skrz púzdra majú hrúbku 0,4mm, Všetky ostatné spoje majú hrúbku 0,8mm."
     },{
       "type": "p",
       "text": "Puzdrá môžete prepojiť rovnako, ako sú prepojené tu."
@@ -37,17 +40,32 @@
       "type": "image",
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/63TAN.png"
     },
-  
+     {
+      "type": "p",
+      "text": "Následne pridáme liatu zem."
+    },{
+      "type": "p",
+      "text": "Liatu zem vytvoríme použitím nástroja Kreslenia vyplnených zón ktorý je hneď pod nástrojom prekovov. Potom vytvoríme zónu vrstvy F.Cu, pomenujeme gnd a vyberieme sieť GND a vyplníme ňou celý útvar Edge.Cuts."
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/65TAN.png"
+    },{
+      "type": "p",
+      "text": "Následne klikneme pravým tlačidlom na zónu a vyberieme možnosť vyplnenia všetkých zón."
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/66TAN.png"
+    },
     
     {
       "type": "p",
       "text": "DPS je hotové."
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/26TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/27TAN.bmp"
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/64TAN.png"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/68TAN.png"
     }
   ]
 }
