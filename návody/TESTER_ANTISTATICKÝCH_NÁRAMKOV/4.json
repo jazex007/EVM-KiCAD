@@ -18,7 +18,7 @@
     },
     {
       "type": "p",
-      "text": "Aj prekovy je potrebné prepojiť spojom vrstvy B.Cu ktorá vedie na zadnej strane hoci zadanie udáva len jednostrannú dps, tento krok je nutný."
+      "text": "Aj prekovy je potrebné prepojiť spojom vrstvy B.Cu (modrá) ktorá vedie na zadnej strane hoci zadanie udáva len jednostrannú dps, tento krok je nutný."
     },{
       "type": "p",
       "text": "Spoje pre VCC majú hrúbku 1,5mm a spoje ktoré prechádzajú skrz púzdra majú hrúbku 0,4mm, Všetky ostatné spoje majú hrúbku 0,8mm."
