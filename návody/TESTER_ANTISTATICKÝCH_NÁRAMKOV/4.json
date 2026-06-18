@@ -11,40 +11,34 @@
     {
       "type": "p",
       "text": "Pred spojením je potrebné súčiastky umiestniť tak, aby sa medzi nimi nachádzal priestor pre fyzický spoj. Následne súčiastky prepojíme."
+    },
+    {
+      "type": "p",
+      "text": "Spoje ktoré nejde prepojiť skrz dps je nutné prepojiť prekovmi. nástroj prekovu použijeme kliknutím na šiesty symbol od hora na ľavej lište panela na pravej strane obrazovky."
+    },,
+    {
+      "type": "p",
+      "text": "Aj prekovy je potrebné prepojiť spojom vrstvy B.Cu ktorá vedie na zadnej strane hoci zadanie udáva len jednostrannú dps, tento krok je nutný."
     },{
       "type": "p",
       "text": "Puzdrá môžete prepojiť rovnako, ako sú prepojené tu."
+    }, {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/62TAN.png"
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/19TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/61TAN.png"
     },
-    
-  
     {
       "type": "p",
-      "text": "Ako môžete vidieť, v DPS chýbajú puzdrá pre zdroj. Je to preto, lebo symboly, ktoré sme zatiaľ použili v schéme, slúžia iba ako referencia. Netreba sa však stresovať. Aj po prevedení schémy do editora DPS je stále možné otvoriť schematický editor a pridať do schémy symbol batérie. Následne je potrebné priradiť batérii puzdro. Puzdro priraďte podľa návodu. Po priradení puzdra zdroju sa už len stačí vrátiť do editora DPS a aktualizovať DPS zo schémy rovnakým spôsobom ako naposledy."
+      "text": "Následne pridáme vrstvu Edge.Cuts ktorá určuje tvar a veľkosť našej dosky. Vyberieme možnosť kresliť štvoruholníky a útvar nakreslíme."
+    },{
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/63TAN.png"
     },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/20TAN.bmp"
-    },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/21TAN.bmp"
-    },{
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/22TAN.bmp"
-    },{
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/23TAN.bmp"
-    },{
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/24TAN.bmp"
-    },{
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/25TAN.bmp"
-    },
+  
+    
     {
       "type": "p",
       "text": "DPS je hotové."
@@ -53,7 +47,7 @@
       "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/26TAN.bmp"
     },{
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/27TAN.bmp"
+      "url": "https://raw.githubusercontent.com/jazex007/EVM-KiCAD/refs/heads/main/IMG/TAN/64TAN.png"
     }
   ]
 }
